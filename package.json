@@ -29,6 +29,7 @@
     "deep-diff": "~0.1.6"
   },
   "devDependencies": {
+    "minifyify": "^3.0.6",
     "mocha": "1.9.x",
     "should": "~2.1.1"
   },
